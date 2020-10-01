@@ -1,5 +1,4 @@
-# DNS-Socket-Program
-A simulation of DNS-Client interaction 
+
 
 # DNS-Socket-Program
 A simulation of DNS-Client interaction 
